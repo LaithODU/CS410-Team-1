@@ -1,6 +1,6 @@
-# FreshList Android App
+# FreshTrack Android App
 ## CS410-Team-1
 
-Android Application for FreshList. Depends on server to process images.
+Android Application for FreshTrack. Depends on server to process images.
 
-Set up for Android Studo Ladybug
+Set up for Android Studio Ladybug
