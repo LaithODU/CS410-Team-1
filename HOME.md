@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FreshTrack
-permalink: /home/
+permalink: /
 ---
 
 # Background
