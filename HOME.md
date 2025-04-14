@@ -13,7 +13,7 @@ permalink: /
 * On average, the American consumer wastes around $1,300 on food annually (Conrad, 2020).
 
 # Problem
-<p>Consumers lack the necessary tools to track their food inventory, which not only puts an unnecessary burden on their finances but also causes a significant negative impact on the environment.</p>
+Consumers lack the necessary tools to track their food inventory, which not only puts an unnecessary burden on their finances but also causes a significant negative impact on the environment.
 
 # Problem Characteristics
 * Remembering all the purchased food can be overwhelming.
@@ -22,7 +22,7 @@ permalink: /
 * Consumers are unaware of the amount of food wasted due to poor tracking.
 
 # Solution
-<p>FreshTrack offers a food inventory tracker that allows consumers to make cost-effective choices and reduces food waste through enhanced tracking and recommendations.</p>
+FreshTrack offers a food inventory tracker that allows consumers to make cost-effective choices and reduces food waste through enhanced tracking and recommendations.
 
 # Solution Characteristics
 * Provides a single, intuitive to log all groceries purchased via a receipt scan.
